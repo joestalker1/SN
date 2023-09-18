@@ -22,5 +22,5 @@ $ cat << EOF | java -jar ./target/scala-2.13/MinTrianglePath.jar
 
 In order to run it with data file use the following command:
 ```bash
-$ cat <data file> | java -jar ../target/scala-2.13/MinTrianglePath.jar
+$ cat <data file> | java -jar ./target/scala-2.13/MinTrianglePath.jar
 ```
