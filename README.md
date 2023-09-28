@@ -19,6 +19,7 @@ In order to run it, please use the following command:
 ```bash
 $ cat << EOF | java -jar ./target/scala-2.13/MinTrianglePath.jar
 ```
+Sometimes it needs to add an empty line after the last line or press <Enter>
 
 In order to run it with data file use the following command:
 ```bash
